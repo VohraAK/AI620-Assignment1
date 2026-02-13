@@ -1,0 +1,32 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-arm64
+# created-by: conda 25.11.0
+annotated-types=0.7.0=pyhd8ed1ab_1
+brotli-bin=1.2.0=hc919400_1
+brotli-python=1.2.0=py312h0dfefe5_1
+ca-certificates=2026.1.4=hbd8a1cb_0
+charset-normalizer=3.4.4=pyhd8ed1ab_0
+importlib-metadata=8.7.0=pyhe01879c_1
+libjpeg-turbo=3.1.2=hc919400_0
+libwebp-base=1.6.0=h07db88b_0
+llvm-openmp=21.1.8=h4a912ad_0
+matplotlib-base=3.10.0=py312hdbc7e53_0
+matplotlib-inline=0.2.1=pyhd8ed1ab_0
+minify-html=0.18.1=py312h931abed_0
+nest-asyncio=1.6.0=pyhd8ed1ab_1
+prompt-toolkit=3.0.52=pyha770c72_0
+pthread-stubs=0.4=hd74edd7_1002
+pydantic-core=2.41.5=py312h6ef9ec0_1
+python-dateutil=2.9.0.post0=pyhe01879c_2
+python-dotenv=1.2.1=pypi_0
+python-gil=3.12.12=hd8ed1ab_2
+python-tzdata=2025.3=pyhd8ed1ab_0
+scikit-learn=1.8.0=np2py312he5ca3e3_1
+seaborn-base=0.13.2=pyhd8ed1ab_3
+typing-extensions=4.15.0=h396c80c_0
+typing-inspection=0.4.2=pyhd8ed1ab_1
+xorg-libxau=1.0.12=hc919400_1
+xorg-libxdmcp=1.1.5=hc919400_1
+ydata-profiling=4.18.1=pyhcf101f3_0
+zlib-ng=2.3.3=hed4e4f5_1
