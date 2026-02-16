@@ -17,7 +17,7 @@ This pipeline extracts data from World Bank Group's [Data360](https://data360.wo
 
 ### Running the Pipeline
 
-1. Install dependencies with `pip install -r requirements.txt`
+1. Install dependencies for a conda environment using the `requirements.txt` file.
 2. Set API keys in `.env` file (your NewsAPI key)
 3. Run `python run_pipeline.py` to start the EL pipeline
 4. **Analysis**: Run the `python src/exploratory_analysis.ipynb` notebook for some analysis.
@@ -26,3 +26,5 @@ The pipeline will extract, transform, and load data into the specified output fo
 
 ---
 *Note: Answers to the given questions are given in the `docs/part_1_questions.md` and `docs/part_2_questions.md`*
+
+*Note: Due to size constraints, `data/raw`'s data files have been deleted.*
